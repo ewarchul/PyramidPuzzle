@@ -13,4 +13,29 @@
 
 ## Użycie programu 
 
+pobierz repozytorium:
+
+```
+git clone https://github.com/warbarbye/SPOP.git
+
+```
+wejdź do katalogu z projektem:
+
+```
+cd SPOP
+```
+
+wykonaj następujące komendy:
+
+```
+stack build
+
+stack exec PyramidPuzzle-exe
+```
+
+
+## Działanie programu
+
+
+todo
 
