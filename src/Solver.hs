@@ -23,7 +23,7 @@ import Array
 solve ::
       Piramids -> -- ^ Piramidarray ze wskazówkami
       Int -> -- ^ Rozmiar tablicy zagadki
-      Array -> -- ^ Tablicarray zagadki
+      Array -> -- ^ Tablica zagadki
       (Int, Int) -> -- ^ Indeks tablicy
       IO (Maybe Array)
 solve pyramid n array (col, row)
