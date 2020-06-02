@@ -36,7 +36,7 @@ stack exec PyramidPuzzle-exe
 
 ## Działanie programu
 
-[![asciicast](https://asciinema.org/a/33ZAbeISLqLozq9j2rKRwvIhz.svg = 250x250)](https://asciinema.org/a/33ZAbeISLqLozq9j2rKRwvIhz)
+![App demo](app-demo.gif)
 
 ## Wymagania
 
