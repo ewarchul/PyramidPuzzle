@@ -34,8 +34,14 @@ stack exec PyramidPuzzle-exe
 ```
 
 
+
 ## Działanie programu
 
+[![asciicast](https://asciinema.org/a/33ZAbeISLqLozq9j2rKRwvIhz.png)](https://asciinema.org/a/33ZAbeISLqLozq9j2rKRwvIhz)
 
-todo
+
+i## Wymagania
+
+- `stack 2.3.1`
+- `ghc 8.8.3`
 
