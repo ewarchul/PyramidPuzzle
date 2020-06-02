@@ -16,13 +16,13 @@
 pobierz repozytorium:
 
 ```
-git clone https://github.com/warbarbye/SPOP.git
+git clone https://github.com/warbarbye/PyramidPuzzle.git
 
 ```
 wejdź do katalogu z projektem:
 
 ```
-cd SPOP
+cd PyramidPuzzle
 ```
 
 wykonaj następujące komendy:
